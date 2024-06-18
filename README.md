@@ -73,10 +73,6 @@ This project aims to create a hybrid Asteroids game using Bend for game logic an
    - Provide comprehensive documentation for the project.
    - Implement unit and integration tests to ensure reliability.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request with your improvements or bug fixes.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
