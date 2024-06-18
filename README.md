@@ -25,7 +25,6 @@ This project aims to create a hybrid Asteroids game using Bend for game logic an
 
 ## Project Structure
 
-'''
 .
 ├── README.md
 ├── Makefile
@@ -39,7 +38,6 @@ This project aims to create a hybrid Asteroids game using Bend for game logic an
 ├── pixel_shifter.cpp
 ├── pixel_shifter.py
 └── pixels.json (generated during execution)
-'''
 
 ## How to Build and Run
 
